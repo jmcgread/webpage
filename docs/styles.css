@@ -1,9 +1,7 @@
 /* css styles */
 
 body {
-  background-image: url("/images/son_cover_fade.jpeg");
-  background-repeat: no repeat;
+  background-image: url("images/son_cover_fade.jpeg");
+  background-repeat: no-repeat;
   background-size: cover;
 }
-
-
